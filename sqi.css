@@ -1,0 +1,360 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.nav{
+    border: none;
+    display: flex;
+    height: 90px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+.links{
+    color: blue;
+    display: flex;
+    gap: 30px;
+}
+.abc{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.main{
+    border: 1px solid;
+    width: 100%;
+    height: 690px;
+    background-image: linear-gradient(
+    to right,
+    rgba(5, 20, 70, 0.95) 0%,
+    rgba(5, 20, 70, 0.75) 35%,
+    rgba(5, 20, 70, 0.25) 75%,
+    rgba(5, 20, 70, 0.10) 100%
+),
+url(/assets/sqi-matriculating-students.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: cnter;
+    text-align: cent;
+    position: relative;
+    color: white;
+}
+.nnn{
+    border: 2px solid black;
+    width: 350px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.stg{
+    text-align: left;
+}
+.nn{
+    border: 1px solid black;
+    width: 285px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    background-color: orange;
+    color: white;
+    position: relative;
+    top: 20px;
+}
+.n{
+    border: 1px solid white;
+    width: 325px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;            
+    color: white;
+    position: relative;
+    top: 40px;
+}
+.nno{
+    border: 1px solid black;
+    width: 295px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    background-color: green;
+    color: white;
+    position: relative;
+    top: 60px;
+}
+.mai{
+    width: fit-content;
+    margin: auto;
+    padding-top: 150px;
+}
+.n{
+    display: flex;
+    gap: 14px;
+}
+.nn{
+    display: flex;
+    gap: 14px;
+}
+.nno{
+    display: flex;
+    gap: 14px;
+}
+.u{
+    position: relative;
+    left:9px;
+}
+.section1{
+    border: none;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    height: 90px;
+    width: 100%;
+    background-color: #f4f4f4;
+    align-items: center;
+    justify-content: space-around;
+}
+.wewew{
+    color: black;
+    display: flex;
+    gap: 30px;
+}
+.streee{
+    font-size: x-small;
+    color: #666;
+    position: relative;
+    bottom: 10px;
+    left: 22px;
+}
+.wew{
+    display: fle;
+    gap: 10px;
+    align-items: center;
+}
+.p{
+    border: 0px solid;
+    height: 20px;
+    width: 30px;
+    background-color: wheat;
+}
+.cyp{
+    text-align: center;
+}
+.ttyy{
+    color: #040059;
+}
+.uuu{
+    color: #666;
+}
+.greed1{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.national{
+border: none;
+height: 540px;
+width: 460px;
+border-top: 4px solid #f28c28;
+border-radius: 18px;
+background-color: #FFF9F5;
+}
+.professional{
+    border: 1px solid #E5E7EB;;
+    height: 540px;
+    width: 460px;
+    border-radius: 18px;
+}
+.gred1{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 75px;
+}
+.pre{
+border: 1px solid #E5E7EB;
+height: 540px;
+width: 460px;
+border-radius: 18px;
+}
+.laut{
+border: 1px solid #E5E7EB;
+height: 540px;
+width: 460px;
+border-radius: 18px;
+}
+.inpro{
+    border: 1px solid green;
+    border-radius: 50px;
+    height: 50px;
+    width: 220px;
+    text-align: center;
+    padding: 0 12px;
+    color: green;
+    margin-left: 39px;
+    align-content: center;
+}
+.ndnd{
+    margin-left: 39px;
+    color: #0B1F4B;
+}
+.naadl{
+    color: #4B5563;
+    margin-left: 39px;
+}
+.naadli{
+    color: #4B5563;
+    margin-left: 39px;
+    margin-top: -10px;
+}
+.prgd{
+    color: #4B5563;
+    margin-left: 39px;
+    margin-top: 30px;
+    font-size: 13px;
+}
+.hr{
+    color: #4B5563;
+    width: 400px;
+}
+.dcte{
+    display: flex;
+    gap: 153px;
+    margin: 39px;
+    margin-top: -10px;
+    color: #4B5563;
+}
+.cte{
+    display: flex;
+    gap: 160px;
+    margin: 39px;
+    margin-top: -60px;
+    color: #4B5563;
+}
+.yy{
+    margin-top: -30px;
+    width: 400px;
+}
+.jc1s{
+    margin-left: 39px;
+    color: #040059;
+}
+y{
+    width: 400px;
+
+}
+.butt{
+    height: 40px;
+    width: 150px;
+    background-color: #040059;
+    color: white;
+    border: none;
+    border-radius: 7px;
+}
+.but{
+    height: 40px;
+    width: 166px;
+    color: white;
+    border: 1px solid green;
+    border-radius: 7px;
+    color: green;
+}
+.button{
+    display: flex;
+    gap: 25px;
+    margin-left: 39px;
+    margin-top: 30px;
+}
+.national:hover{
+    transform: scale(1.02);
+}
+.professional:hover{
+    transform: scale(1.02);
+}
+.pre:hover{
+    transform: scale(1.02);
+}
+.laut:hover{
+    transform: scale(1.02);
+}
+.griid {
+    width: 58%;
+    margin: 30px auto;
+}
+
+.table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    overflow: hidden;
+    border-radius: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.head {
+    background-color: #000b46;
+    color: white;
+}
+
+.th {
+    padding: 22px 24px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.body
+ .th {
+    border-bottom: 1px solid #ddd;
+    background-color: white;
+}
+
+.adi {
+    width: 55%;
+    font-weight: normal;
+}
+
+.dia {
+    width: 30%;
+    color: #000b46;
+}
+.icon {
+    width: 10%;
+    text-align: right;
+    padding-right: 25px;
+}
+
+.last .th {
+    border-bottom: none;
+}
+
+.body :hover .th {
+    background-color: #fafafa;
+}
+.dia:hover{
+    color: #f28c28;
+}
+.nswts{
+    align-content: center;
+    text-align: center;
+}
+.nswts h1{
+    color: #000b46;
+}
+.nswts p{
+    color: #4B5563;
+}
+.sofen{
+    border: none;
+    height: 600px;
+    width: 450px;
+    background-color: rgba(136, 196, 221, 0.35);
+    border-radius: 20px;
+}
+.imgs{
+    width: 75%;
+    height: 40%;
+}
